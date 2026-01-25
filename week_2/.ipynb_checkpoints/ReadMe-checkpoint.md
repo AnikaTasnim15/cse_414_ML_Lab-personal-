@@ -1,0 +1,1 @@
+# First lab of this week will be held on numpy and pandas_part1
