@@ -1,0 +1,181 @@
+area,bedrooms,age,town,price
+2122.0,4.0,28.0,monroe township,554200
+,2.0,4.0,princeton,792500
+2680.0,4.0,47.0,west windsor,659800
+3223.0,5.0,20.0,princeton,866900
+2761.0,5.0,17.0,edison,753400
+2495.0,5.0,,robinsville,627400
+2440.0,5.0,22.0,robinsville,637500
+2768.0,5.0,18.0,monroe township,688100
+2877.0,2.0,31.0,west windsor,625400
+2629.0,5.0,-99999.0,robinsville,679300
+2874.0,3.0,14.0,princeton,757200
+2309.0,3.0,16.0,princeton,658400
+3007.0,,17.0,west windsor,721400
+2193.0,5.0,7.0,,610400
+2913.0,4.0,7.0,west windsor,805500
+,3.0,50.0,edison,705000
+3491.0,,35.0,monroe township,814600
+3771.0,5.0,48.0,west windsor,1270322
+2300.0,4.0,0.0,edison,660000
+3341.0,2.0,21.0,monroe township,745000
+3543.0,3.0,29.0,robinsville,760000
+3441.0,3.0,30.0,edison,761600
+-99999.0,3.0,9.0,monroe township,649200
+3185.0,3.0,45.0,robinsville,712100
+3837.0,3.0,48.0,edison,836100
+2326.0,3.0,9.0,monroe township,577100
+3214.0,5.0,1.0,robinsville,813400
+3501.0,4.0,20.0,princeton,917700
+2687.0,2.0,16.0,princeton,711300
+3262.0,3.0,15.0,west windsor,782100
+2518.0,3.0,46.0,monroe township,600100
+2635.0,4.0,42.0,robinsville,584200
+2632.0,3.0,26.0,west windsor,684100
+3087.0,3.0,35.0,robinsville,674000
+2959.0,,2.0,west windsor,726800
+3429.0,3.0,19.0,princeton,871900
+2577.0,4.0,5.0,NA,745500
+2941.0,4.0,13.0,west windsor,765900
+3432.0,3.0,2.0,robinsville,754600
+3252.0,4.0,32.0,west windsor,819500
+2404.0,3.0,40.0,west windsor,582100
+3299.0,3.0,38.0,west windsor,792600
+,3.0,31.0,princeton,735000
+3173.0,3.0,11.0,west windsor,757100
+3135.0,5.0,22.0,west windsor,811700
+3549.0,4.0,0.0,princeton,926300
+3052.0,4.0,21.0,,766200
+2166.0,2.0,43.0,edison,467900
+2384.0,3.0,1.0,monroe township,620300
+3329.0,3.0,14.0,princeton,802900
+2884.0,2.0,18.0,west windsor,680800
+3512.0,3.0,35.0,west windsor,823900
+,2.0,10.0,robinsville,685300
+2663.0,3.0,34.0,robinsville,595900
+3487.0,4.0,49.0,west windsor,828900
+2637.0,4.0,6.0,monroe township,646200
+2076.0,4.0,10.0,monroe township,547800
+,2.0,46.0,princeton,863800
+2140.0,,26.0,robinsville,571300
+3286.0,2.0,53.0,princeton,774900
+3422.0,2.0,46.0,edison,695500
+3066.0,2.0,14.0,princeton,741500
+2242.0,5.0,-99999.0,monroe township,672400
+3457.0,4.0,29.0,west windsor,816600
+2351.0,3.0,30.0,NA,624200
+2395.0,3.0,42.0,monroe township,570500
+2837.0,5.0,45.0,edison,680600
+3355.0,3.0,24.0,edison,758500
+-99999.0,3.0,44.0,princeton,825000
+3365.0,3.0,8.0,robinsville,777700
+2800.0,3.0,25.0,princeton,714100
+2923.0,3.0,31.0,monroe township,675600
+2488.0,4.0,41.0,west windsor,647200
+2857.0,3.0,42.0,west windsor,690600
+3267.0,4.0,24.0,princeton,849600
+2865.0,2.0,14.0,robinsville,687700
+3214.0,4.0,35.0,monroe township,722700
+-99999.0,5.0,15.0,west windsor,1058037
+-99999.0,2.0,10.0,west windsor,637600
+3018.0,3.0,33.0,west windsor,696100
+2912.0,4.0,-99999.0,monroe township,721500
+3267.0,3.0,42.0,west windsor,814500
+3080.0,5.0,48.0,west windsor,818400
+3783.0,3.0,27.0,princeton,848900
+2901.0,3.0,44.0,princeton,704400
+2898.0,5.0,49.0,robinsville,740500
+2532.0,2.0,29.0,west windsor,616800
+3010.0,4.0,31.0,princeton,747100
+3307.0,2.0,8.0,edison,745100
+2667.0,3.0,43.0,princeton,666400
+2978.0,3.0,48.0,princeton,709000
+3323.0,3.0,8.0,edison,733700
+2943.0,2.0,23.0,monroe township,643400
+2766.0,3.0,36.0,edison,659800
+3438.0,3.0,52.0,west windsor,808700
+3044.0,5.0,16.0,robinsville,757600
+3178.0,5.0,5.0,princeton,854400
+3527.0,3.0,31.0,princeton,859500
+3515.0,5.0,42.0,monroe township,867500
+-99999.0,4.0,12.0,princeton,765400
+2764.0,3.0,44.0,monroe township,681400
+3128.0,2.0,19.0,west windsor,714400
+2940.0,4.0,3.0,princeton,831200
+2145.0,3.0,12.0,west windsor,953745
+3574.0,2.0,38.0,robinsville,793900
+3009.0,5.0,49.0,princeton,752200
+3331.0,5.0,49.0,princeton,845200
+2472.0,3.0,12.0,princeton,701000
+3580.0,4.0,53.0,monroe township,774300
+2735.0,4.0,34.0,west windsor,725900
+,5.0,48.0,west windsor,695800
+2369.0,3.0,5.0,monroe township,598700
+2925.0,3.0,16.0,robinsville,703600
+2897.0,3.0,35.0,robinsville,657000
+2917.0,3.0,,princeton,755300
+3197.0,3.0,26.0,,743600
+3027.0,3.0,45.0,monroe township,710800
+3439.0,2.0,17.0,monroe township,782400
+2789.0,3.0,51.0,princeton,717600
+2552.0,4.0,40.0,monroe township,649400
+2991.0,3.0,21.0,monroe township,757900
+3283.0,4.0,4.0,,765200
+3560.0,4.0,18.0,monroe township,829000
+3366.0,4.0,33.0,princeton,829900
+2206.0,4.0,3.0,edison,580500
+3170.0,2.0,14.0,monroe township,715200
+-99999.0,3.0,3.0,robinsville,1276771
+3028.0,5.0,-99999.0,princeton,774600
+2768.0,5.0,6.0,edison,744300
+3139.0,2.0,22.0,west windsor,687100
+2774.0,4.0,29.0,monroe township,738600
+3288.0,2.0,54.0,edison,664500
+2994.0,,7.0,edison,647300
+3627.0,2.0,1.0,monroe township,820600
+3225.0,3.0,13.0,west windsor,782500
+2674.0,3.0,53.0,princeton,676900
+3272.0,5.0,19.0,,914800
+3421.0,3.0,38.0,monroe township,787100
+2744.0,2.0,4.0,princeton,672300
+2808.0,3.0,16.0,princeton,711600
+,2.0,36.0,robinsville,464100
+3407.0,2.0,11.0,monroe township,772800
+2736.0,3.0,19.0,monroe township,652000
+2045.0,3.0,8.0,west windsor,624000
+2204.0,3.0,34.0,princeton,620900
+2900.0,3.0,15.0,monroe township,699900
+3342.0,2.0,40.0,monroe township,733300
+2960.0,4.0,26.0,west windsor,751200
+3212.0,3.0,3.0,monroe township,711800
+2504.0,,25.0,monroe township,631000
+2396.0,3.0,28.0,monroe township,607600
+3399.0,3.0,2.0,robinsville,803800
+3221.0,3.0,,princeton,825400
+2986.0,2.0,41.0,west windsor,651700
+3577.0,4.0,,NA,792700
+2572.0,3.0,30.0,west windsor,664600
+2811.0,5.0,22.0,NA,724400
+3462.0,3.0,,edison,728200
+3827.0,3.0,52.0,edison,843500
+3004.0,4.0,-99999.0,monroe township,673900
+3756.0,4.0,22.0,monroe township,881700
+2729.0,4.0,43.0,princeton,725600
+3148.0,,7.0,edison,709600
+2922.0,4.0,24.0,west windsor,769000
+2285.0,4.0,31.0,princeton,650900
+3116.0,3.0,,edison,750800
+3420.0,3.0,15.0,robinsville,732100
+2933.0,4.0,47.0,edison,717900
+2968.0,3.0,31.0,monroe township,695000
+3627.0,4.0,25.0,west windsor,875900
+2438.0,4.0,22.0,west windsor,675100
+,4.0,36.0,monroe township,612500
+2706.0,3.0,22.0,edison,698300
+2462.0,3.0,31.0,monroe township,583800
+3606.0,3.0,30.0,princeton,849200
+3139.0,3.0,4.0,monroe township,771600
+2611.0,4.0,5.0,west windsor,692500
+2723.0,5.0,28.0,west windsor,693300
+4287.0,3.0,36.0,monroe township,983900
+2725.0,2.0,15.0,robinsville,618600
