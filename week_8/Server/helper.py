@@ -61,6 +61,7 @@ def main(img):
     img_har = w2d(img,'db1',5)
     scalled_img_har = cv2.resize(img_har, (32, 32))
     test_img = np.vstack((scalled_raw_img.reshape(32*32*3,1),scalled_img_har.reshape(32*32,1)))
+    
     return __class_number_to_name[__model.predict(test_img.reshape(1,-1))[0]]
 
 
