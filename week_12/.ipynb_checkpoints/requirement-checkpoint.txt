@@ -1,0 +1,16 @@
+# Python version used: 3.11
+
+tensorflow==2.15.1
+numpy==1.26.4
+opencv-python==4.9.0.80
+gradio==3.9.1
+
+fastapi==0.88.0
+starlette==0.22.0
+uvicorn==0.20.0
+jinja2==3.1.2
+anyio==3.6.2
+httpx==0.23.0
+httpcore==0.15.0
+
+setuptools==69.5.1
